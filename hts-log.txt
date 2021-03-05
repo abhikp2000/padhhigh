@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Mar 2021 15:15:23 at https://tekhub.rstheme.com/computer-vision/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tekhub.rstheme.com/computer-vision/index.html -O1 "C:\My Web Sites\xyz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:15:43	Error: 	"Internal Server Error" (500) after 2 retries at link https://tekhub.rstheme.com/robots.txt (from primary/primary)
+15:18:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/apple-touch-icon.png (from https://tekhub.rstheme.com/computer-vision/index.html)
+15:19:30	Warning: 	Retry after error -2 (Receive Time Out) at link https://tekhub.rstheme.com/computer-vision/images/testimonial/9.png (from https://tekhub.rstheme.com/computer-vision/index.html)
+15:19:30	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/apple-touch-icon.png (from https://tekhub.rstheme.com/computer-vision/index.html)
+15:19:30	Warning: 	File not parsed, looks like binary: https://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.woff2?v=4.7.0
+15:19:30	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/css/owl.video.play.png (from https://tekhub.rstheme.com/computer-vision/css/owl.carousel.css)
+15:19:30	Warning: 	File not parsed, looks like binary: https://tekhub.rstheme.com/computer-vision/fonts/Flaticon.woff2
+15:19:30	Warning: 	File not parsed, looks like binary: https://tekhub.rstheme.com/computer-vision/revolution/css/openhand.cur
+15:19:30	Warning: 	File not parsed, looks like binary: https://tekhub.rstheme.com/computer-vision/revolution/css/closedhand.cur
+15:19:30	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/images/bg/bg5.jpg (from https://tekhub.rstheme.com/computer-vision/style.css)
+15:19:31	Error: 	"Internal Server Error" (500) after 2 retries at link https://tekhub.rstheme.com/computer-vision/apple-touch-icon.png (from https://tekhub.rstheme.com/computer-vision/index.html)
+15:19:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/css/owl.video.play.png (from https://tekhub.rstheme.com/computer-vision/css/owl.carousel.css)
+15:19:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://tekhub.rstheme.com/computer-vision/images/bg/bg5.jpg (from https://tekhub.rstheme.com/computer-vision/style.css)
+15:19:33	Error: 	"Internal Server Error" (500) after 2 retries at link https://tekhub.rstheme.com/computer-vision/css/owl.video.play.png (from https://tekhub.rstheme.com/computer-vision/css/owl.carousel.css)
+15:19:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://tekhub.rstheme.com/computer-vision/images/bg/bg5.jpg (from https://tekhub.rstheme.com/computer-vision/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 10 seconds : 169 links scanned, 158 files written (5377390 bytes overall) [3278417 bytes received at 13113 bytes/sec], 3188652 bytes transferred using HTTP compression in 57 files, ratio 31%, 16.9 requests per connection
+(4 errors, 11 warnings, 0 messages)
